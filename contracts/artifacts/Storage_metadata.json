@@ -32,19 +32,6 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "storage_",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
 				"inputs": [
 					{
 						"internalType": "string",
@@ -96,11 +83,11 @@
 	},
 	"sources": {
 		"contracts/Namerecall.sol": {
-			"keccak256": "0x0bd0245a4ae1b2fdedf94c47c2e1eab18184133d06bf4186116e24ed731c1ae7",
+			"keccak256": "0xd5041c2412da2d4b66c09fba3c4f65246844a771d0af3e864b90f9aee5d79cae",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ce76b7c360268a527d45ba9ce8336b6fe9ac9336417c7e2671b7df71b062c0b0",
-				"dweb:/ipfs/QmQzeDLgbFh19UeVJv59XmtitDfBmWnTdrPVpoxLiztZzx"
+				"bzz-raw://5299c8e230fab20d91186fcb0e0ca07bb8905b3fa778735502053f076a0c1d8a",
+				"dweb:/ipfs/QmPMjqZ2V4zYPVMMQoEgLKeLbWGCJNzJvu3yKN4xfNyLHe"
 			]
 		}
 	},

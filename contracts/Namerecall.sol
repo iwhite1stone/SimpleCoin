@@ -9,7 +9,7 @@ pragma solidity >=0.8.2 <0.9.0;
  */
 contract Storage {
 
-    string public storage_;
+    string private storage_;
 
     function store(string memory s) public {
         storage_ = s;
